@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "cd9efd38618c760c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b6bf31153eed1df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44450ba57b6a8635",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "583f3c7bea15d18a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5abef9b46448bc50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735ccc8eabdfed50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b90ba5ab8c5215a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "167c5825834e8b8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93443db7590b9fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a2b08840ea0b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e7b313c6aa4305",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Oracle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Oracle"
+            }
+          },
+          {
+            "id": "6ab5ddf5dad1bd76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oracle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Oracle"
+            }
+          },
+          {
+            "id": "1bedfcbb893f44dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "940d392f1ff64a94",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0c62bc92cba2d2c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oracle.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Oracle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "44450ba57b6a8635",
+  "lastOpenFiles": [
+    "Oracle.md",
+    "generate_cards.py.tmp.23860.082a3c6de63f",
+    "zap-oracle-vault/images/card-images/zzx.jpg",
+    "zap-oracle-vault/images/card-images/zero.jpg",
+    "zap-oracle-vault/images/card-images/zapzap.jpg",
+    "zap-oracle-vault/images/card-images/zapppp.jpg",
+    "zap-oracle-vault/images/card-images/zapessence.jpg",
+    "zap-oracle-vault/images/card-images/zap14a.jpg",
+    "zap-oracle-vault/images/card-images/zap14.jpg",
+    "zap-oracle-vault/images/card-images/z9.jpg",
+    "zap-oracle-vault/images/card-images/z8.jpg",
+    "zap-oracle-vault/images/card-images/z22.jpg",
+    "zap-oracle-vault/cards/youth-card.md",
+    "zap-oracle-vault/cards/youre-already-there-card.md",
+    "zap-oracle-vault/cards/your-world-in-your-hands-card.md",
+    "zap-oracle-vault/cards/your-home-is-your-castle-card.md",
+    "zap-oracle-vault/cards/your-design-card.md",
+    "zap-oracle-vault/cards/you-are-light-sheathed-in-flesh-card.md",
+    "zap-oracle-vault/cards/you-are-already-an-interdimensional-traveler-card.md",
+    "zap-oracle-vault/cards/wu-wei-card.md",
+    "zap-oracle-vault/cards/wounded-spirit-card.md",
+    "zap-oracle-vault/cards/wounded-invisibity-card.md",
+    "zap-oracle-vault/cards/wounded-invisibility-card.md",
+    "zap-oracle-vault/cards/world-events-card.md",
+    "zap-oracle-vault/cards/working-with-transforming-the-materials-at-hand-card.md",
+    "zap-oracle-vault/cards/working-with-momentum-card.md",
+    "zap-oracle-vault/cards/working-with-momentum-1-card.md",
+    "zap-oracle-vault/cards/working-with-focused-intensity-card.md",
+    "zap-oracle-vault/cards/working-with-enthusiasm-card.md",
+    "zap-oracle-vault/cards/working-through-a-glass-darkly-adapting-to-the-difficult-conditions-of-the-babylon-matrix-card.md",
+    "zap-oracle-vault/cards/working-on-self-importance-card.md",
+    "zap-oracle-vault/cards/working-in-hell-card.md",
+    "zap-oracle-vault/cards/wizard-within-card.md",
+    "zap-oracle-vault/cards/wizard-out-in-the-world-card.md",
+    "zap-oracle-vault/cards/wise-feminine-contemplation-card.md",
+    "zap-oracle-vault/cards/winter-pathways-card.md",
+    "zap-oracle-vault/cards/whos-in-command-card.md",
+    "zap-oracle-vault/images/patterns",
+    "zap-oracle-vault/images/card-images",
+    "zap-oracle-vault/images",
+    "zap-oracle-vault/cards",
+    "zap-oracle-vault",
+    "generate_cards.py.tmp.23860.b3555a31c17a",
+    "Oracle.md.tmp.23860.99f98b8fea14",
+    "Oracle.md.tmp.23860.4df89a9d0009",
+    "Oracle.md.tmp.23860.e2040ec02957"
+  ]
+}
